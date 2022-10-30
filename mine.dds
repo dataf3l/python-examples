@@ -1,0 +1,8 @@
+ Columns . . . :    1  71            Edit                      DATAF4L1/QDDSSRC
+ SEU==>                                                                   ARC02
+ FMT PF .....A..........T.Name++++++RLen++TDpB......Functions++++++++++++++++++
+        *************** Beginning of data *************************************
+0001.00      A          R ARC02R                                               
+0002.00      A            ARC2NID       21A         TEXT('NUMID')              
+0003.00      A            ARC2MSG       40A         TEXT('MENSAJE')            
+        ****************** End of data ****************************************
